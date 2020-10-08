@@ -1,0 +1,24 @@
+#+FILETAGS: REFILE
+* TODO refile test
+  :LOGBOOK:
+  CLOCK: [2020-10-05 Mon 18:45]--[2020-10-05 Mon 18:46] =>  0:01
+  :END:
+  [2020-10-05 Mon 18:45]
+
+  mac book pro is so good.
+*
+* TODO remove homebrew
+  [2020-10-06 Tue 15:31]
+  
+  The following possible Homebrew files were not deleted:
+  /usr/local/Frameworks/
+  /usr/local/Homebrew/
+  /usr/local/bin/
+  /usr/local/etc/
+  /usr/local/include/
+  /usr/local/lib/
+  /usr/local/opt/
+  /usr/local/sbin/
+  /usr/local/share/
+  /usr/local/var/
+*

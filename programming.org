@@ -1,0 +1,13 @@
+#+FILETAGS: PROGRAMMING
+* Tasks
+** NEXT continuation at <lisp in small pieces> [0/3]
+   SCHEDULED: <2020-10-07 Wed>
+   :LOGBOOK:
+   CLOCK: [2020-10-07 Wed 15:01]--[2020-10-07 Wed 15:26] =>  0:25
+   CLOCK: [2020-10-05 Mon 19:02]--[2020-10-05 Mon 19:04] =>  0:02
+   :END:
+   [2020-10-05 Mon 19:02]
+
+   - [ ] read through third chapter
+   - [ ] code and play it
+   - [ ] write some idea

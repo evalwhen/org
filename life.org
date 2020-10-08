@@ -1,0 +1,18 @@
+#+FILETAGS: LIFE
+* Tasks
+** DONE enjoy a movie
+CLOSED: [2020-10-08 Thu 00:49]
+   SCHEDULED: <2020-10-07 Wed>
+   [2020-10-05 Mon 19:05]
+** TODO NEXT 健康打卡
+- State "DONE"       from "TODO"       [2020-10-08 Thu 10:10]
+- State "DONE"       from ""           [2020-10-07 Wed 15:57]
+   [2020-10-07 Wed 15:49]
+SCHEDULED: <2020-10-09 Fri .+1d>
+   :PROPERTIES:
+   :STYLE: habit
+   :REPEAT_TO_STATE: NEXT
+   :END:
+* Notes
+* Finances
+* Pass
